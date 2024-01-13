@@ -11,3 +11,7 @@ for a in range(n):
 print("The dictionary now is:")
 print(backpaper)
 
+#Sorting Dictionaries
+
+print(sorted(stu.keys()))
+print(sorted(stu.items()))
